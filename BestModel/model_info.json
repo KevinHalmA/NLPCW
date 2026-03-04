@@ -1,0 +1,9 @@
+{
+  "backbone": "microsoft/deberta-v3-base",
+  "max_length": 160,
+  "alpha_aux": 0.5,
+  "best_threshold_dev": -0.5681926012039185,
+  "best_f1_dev": 0.5202558635394456,
+  "precision_dev": 0.45185185185185184,
+  "recall_dev": 0.6130653266331658
+}
