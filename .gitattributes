@@ -1,2 +1,4 @@
+*.safetensors filter=lfs diff=lfs merge=lfs -text
+*.bin filter=lfs diff=lfs merge=lfs -text
 BestModel/model.safetensors filter=lfs diff=lfs merge=lfs -text
 BestModel/pytorch_model.bin filter=lfs diff=lfs merge=lfs -text
